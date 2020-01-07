@@ -62,6 +62,42 @@ World averages (Birth rate - 18.7, fertility rate - 42.5, death rate - 7.5)
 Findings and conclusions 
 
 Eastern Europe's population is slowly shrinking. This can be attributed to the fact that the birth and fertility rates are low and also since the working population is moving to the west in search for better work opportunities.
-Countries in Eastern Europe should consider solutions and policies; could be in the form of lax immigration policies, baby bonuses or investing to improve pay and living conditions in their countries, 
+Countries in Eastern Europe should consider solutions and policies; could be in the form of lax immigration policies, baby bonuses or investing to improve pay and living conditions in their countries, to boost the population in these countries.
+
+
+
+References
+
+Kosovo Economics. (n.d.). Retrieved from https://tradingeconomics.com/kosovo/.
+Countrymeters.info. (n.d.). Kosovo Population. Retrieved from https://countrymeters.info/en/Kosovo.
+HIV/AIDS - adult prevalence rate — The World Factbook. (n.d.). Retrieved from https://www.cia.gov/library/publications/resources/the-world-factbook/fields/363.html
+(n.d.). UNAIDS. Retrieved from http://www.unaids.org/sites/default/files/country/documents/KOSOVO_narrative_report_2015.pdf
+(n.d.). TRADING ECONOMICS | 20 million INDICATORS FROM 196 COUNTRIES. Greece Prevalence Of Hiv Total Percent Of Population Ages 15 49. Retrieved from http://tradingeconomics.com/greece/prevalence-of-hiv-total-percent-of-population-ages-15-49-wb-data.html
+(n.d.). TRADING ECONOMICS | 20 million INDICATORS FROM 196 COUNTRIES. Poland Prevalence Of Hiv Total Percent Of Population Ages 15 49. Retrieved from http://tradingeconomics.com/poland/prevalence-of-hiv-total-percent-of-population-ages-15-49-wb-data.html
+GINI index (World Bank estimate). (n.d.). Retrieved from https://data.worldbank.org/indicator/SI.POV.GINI?view=map.
+COUNTRY COMPARISON :: DISTRIBUTION OF FAMILY INCOME - GINI INDEX. (n.d.). Retrieved from https://www.cia.gov/library/publications/the-world-factbook/rankorder/2172rank.html.
+Educational Expenditure Statistics
+https://ec.europa.eu/eurostat/statistics-explained/index.php/Educational_expenditure_statistics
+Poland - Manufacturing, Value Added (% Of Gdp)
+https://tradingeconomics.com/poland/manufacturing-value-added-percent-of-gdp-wb-data.html
+Serbia - Tax Revenue (% Of Gdp)
+https://tradingeconomics.com/serbia/tax-revenue-percent-of-gdp-wb-data.html
+The World Factbook: Kosovo. (2018, February 1). Retrieved from https://www.cia.gov/library/publications/the-world-factbook/geos/kv.html.
+(n.d.). World Bank Open Data | Data. Industry (including construction), value added (% of GDP) | Data. Retrieved from http://data.worldbank.org/indicator/NV.IND.TOTL.ZS
+(n.d.). Retrieved from https://www.cia.gov/library/publications/the-world-factbook/fields/print_2103.html.
+Norway Literacy Rate 1990-2019
+https://www.macrotrends.net/countries/NOR/norway/literacy-rate
+Sweden Literacy Rate 1990-2019
+https://www.macrotrends.net/countries/SWE/sweden/literacy-rate
+Finland Literacy Rate 1990-2019
+https://www.macrotrends.net/countries/FIN/finland/literacy-rate
+Slovakia Adult Literacy Rate, 2007-2018
+https://knoema.com/atlas/Slovakia/topics/Education/Literacy/Adult-literacy-rate
+https://qz.com/1187819/country-ranking-worlds-fastest-shrinking-countries-are-in-eastern-europe/
+https://oec.world/en/profile/country/wld/
+
+
+
+
 
 
