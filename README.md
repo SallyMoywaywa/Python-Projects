@@ -59,4 +59,9 @@ The death rates on the other hand a higher than the world averages standing at 1
 
 World averages (Birth rate - 18.7, fertility rate - 42.5, death rate - 7.5)
 
+Findings and conclusions 
+
+Eastern Europe's population is slowly shrinking. This can be attributed to the fact that the birth and fertility rates are low and also since the working population is moving to the west in search for better work opportunities.
+Countries in Eastern Europe should consider solutions and policies; could be in the form of lax immigration policies, baby bonuses or investing to improve pay and living conditions in their countries, 
+
 
