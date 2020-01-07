@@ -39,4 +39,24 @@ Depenancy ratio can be defined as the age population ratio of those not in the l
 
 2.	Income inequality
 
-Income inequality is best measured by the gini index
+Income inequality is best measured by the gini index.
+Serbia has the highest income inequality with the gini index standing at 40% while Slovenia has the lowest income inequality with it’s gini index standing at 25%.
+We discovered that the gini index is highly correlated with poverty levels ( a correlation level of 0.57) meaning that the gini index can be used to show wich country has the highest levels in Eastern Europe.
+
+3.	Economy sectors
+
+The major economic sectors are the Service sector, Industrial sector and Agricultural sectors.
+There is a high movement of labor from the agricultural sector to the service and industrial sectors. 
+For this reason theres a noticeable movement of people from the rural areas to urban regions.
+
+It was also discovered that most countries in Eastern Europe are satellite economies of Germany. This is because Germany has big auto mobile factories in most countries and also has a high presence in the service sectors offering among many other products financial and consulting services.
+
+4.	Health data
+
+We analyzed the birth rates, fertility rates and death rates of Eastern Europe and discovered;
+The average birth and fertility rates are lower than the world averages being 10.5 and 12.1 respectively.
+The death rates on the other hand a higher than the world averages standing at 10.5.
+
+World averages (Birth rate - 18.7, fertility rate - 42.5, death rate - 7.5)
+
+
