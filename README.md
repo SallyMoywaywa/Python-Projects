@@ -30,6 +30,7 @@ We also removed the following data: Births attended by skilled health staff, Edu
 Analysis 
 
 1.	Population
+
 The region has a total population of 125,921,885 with Poland being the most populated county (population of 37,974,826)
 The female population in Eastern Europe is the largest with a population percentage of 51.15%, while the male population stands at 48.85%.
 
@@ -37,4 +38,5 @@ The dependancy ratio is 51%.
 Depenancy ratio can be defined as the age population ratio of those not in the labor force of a country by depend on the working population.
 
 2.	Income inequality
+
 Income inequality is best measured by the gini index
